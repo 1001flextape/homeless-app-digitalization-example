@@ -1,4 +1,9 @@
-site_name: My Docs
+site_name: Homeless Resources
+nav:
+  - Home: index.md
+  - Foothill Unity Center: foothill-unity-center.md
+  - Pasadena Public Health: pasadena-public-health.md
+  - Food Banks and Meal Programs: food-banks-and-meal-programs.md
 
 theme:
   name: material
